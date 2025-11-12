@@ -1,6 +1,8 @@
 # Using JS Promises in React
 
-### Code analise questions
+### Code analyse questions
+
+---
 
 ##### 1. What part of the code defines the window title?
 
@@ -41,3 +43,5 @@ We should simplify the `data.map` function, we get the index of the desirable ob
 ##### 10. What CSS rule defines the background color of the entire page, and what variable is used for it?
 
 The variable is --bg, the CSS rule that defines the background color of the entire page is `background`.
+
+---
